@@ -1,4 +1,4 @@
-# codealphaIris Flower Classification
+# Iris Flower Classification
 
 ## Objective
 Classify Iris flowers using Machine Learning.
